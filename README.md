@@ -1,1 +1,1 @@
-Portfolio criado em sala de aula!
+Portfolio criado em sala de aula utilizando HTML,CSS e JavaScript
